@@ -3,7 +3,7 @@ _Please read ChatGPT's policies before use_
 
 Program automatically generating books with ChatGPT
 
-Requirements:
+Requirements:  
     - Google Chrome version 113  
     - Python libraries: selenium, undetected_chromedriver, pyperclip, python-docx and pyautogui  
 
